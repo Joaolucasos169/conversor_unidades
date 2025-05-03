@@ -1,0 +1,10 @@
+{
+    "expo": {
+      "name": "Conversor de Unidades",
+      "slug": "conversor-unidades",
+      "version": "1.0.0",
+      "jsEngine": "hermes",
+      "platforms": ["android", "ios", "web"],
+      "assetBundlePatterns": ["**/*"]
+    }
+  }
