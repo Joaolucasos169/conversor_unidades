@@ -1,31 +1,11 @@
-# Arquivos do backend
-backend/node_modules/
-backend/.env
-backend/package-lock.json
-backend/logs/
-backend/*.log
-
-# Arquivos do mobile
-mobile/node_modules/
-mobile/.expo/
-mobile/.expo-shared/
-mobile/package-lock.json
-mobile/.env
-
-# Arquivos gerais do sistema
+# Arquivos gerais (IDE, sistema, etc.)
 .DS_Store
-Thumbs.db
-
-# Arquivos de IDE
-.vscode/
 .idea/
-*.swp
-*.swo
+.vscode/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 
-# Arquivos de build
-mobile/android/
-mobile/ios/
-mobile/web-build/
-mobile/.expo-internal/
-mobile/package.json/
-backend/package-lock.json/
+# Dependências (se tiver na raiz)
+node_modules/
