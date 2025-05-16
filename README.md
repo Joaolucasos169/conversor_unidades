@@ -45,7 +45,7 @@ cd conversor_unidades
 npm install
 
 4. Inicie a aplicação
-npm start```
+npm start
  
 
 
